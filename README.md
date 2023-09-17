@@ -16,11 +16,7 @@
 
 >Introduction to EDA for Pressure Columns and Sensors Data:
 This dataset contains time-series data related to various pressure columns and sensors. The objective of this EDA is to gain insights into the dataset, identify potential issues, and prepare the data for subsequent tasks such as anomaly detection, predictive modeling  or system monitoring.
->Here's a breakdown of the key steps involved in the EDA process:
-1. Data Loading 2. Data Overview 3. Data Cleaning 4. Data Visualisation
-5. Feature Selection 6.Statistical Summary 7.Anomaly Detection
-8.Correlation Analysis 9.Preprocessing
->
+
 ### Data Preprocessing
 > We observed the correlation values among the features of the dataset, and we found a particular pair of features having value of correlation almost equal to 1. So, we removed one of those features which would reduce the model complexity.
 
