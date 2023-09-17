@@ -23,7 +23,7 @@ This dataset contains time-series data related to various pressure columns and s
 2. Data Overview
 3. Data Cleaning
 4. Data Visualisation
-5. Feature Selection:
+5. Feature Selection
 6.Statistical Summary
 7.Anomaly Detection
 8.Correlation Analysis
