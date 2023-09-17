@@ -23,7 +23,7 @@
 > Another aspects of preprocessing include removing null values from the dataset if any, normalising the data for using in regression models
 
 ### Prediction
-> Using IQR Analysis to label outliers in the given dataset and then using logistic regression to predict whether the new data points are outliers(Anamolies or not)
+> Using IQR Analysis to label outliers in the given dataset and then using logistic regression to predict whether the new data points are outliers(Anomalies or not)
 
 > Using the bins created using data preprocessing along with the features of the dataset, predicting the value of oil temprature for the new data points with linear regression.
 
