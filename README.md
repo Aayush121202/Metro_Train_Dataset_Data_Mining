@@ -18,14 +18,14 @@
 
 > Extracting the columns of Month, Day, Hour, Minute, Second from the given timestamp to make bins of those fields and use them for further prediction.
 
-> Creating Lag_1 variable(value of oil temperature after lag of 1 time period.) for time series analysis. 
+> Creating Lag_1 variable(value of oil temperature after lag of 1 time period for time series analysis. 
 
 > Another aspects of preprocessing include removing null values from the dataset if any, normalising the data for using in regression models
 
 ### Prediction
-> Using IQR Analysis to label outliers in the given dataset and then using logistic regression to predict whether the new data points are outliers(Anomalies or not)
+> Using IQR Analysis to label outliers in the given dataset and then using logistic regression to predict whether the new data points are Anomalies/Errors or not.
 
-> Using the bins created using data preprocessing along with the features of the dataset, predicting the value of oil temprature for the new data points with linear regression.
+> Using the bins created using data preprocessing along with the features of the dataset, predicting the value of oil temperature for the new data points with linear regression.
 
 > Using the lag_1 variable to make predictions about the value of oil_temperature with linear regression.
 
