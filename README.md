@@ -47,8 +47,9 @@ Dhruvil Thakor - 202101462
 
 ## Contribution:
 
-EDA- Ayush, Dhruvil
-Model Training and Preprocessing- Varun, Dhruvi, Aayush
+>EDA- Ayush, Dhruvil
+
+>Model Training and Preprocessing- Varun, Dhruvi, Aayush
 
 ## Acknowledgement
 
