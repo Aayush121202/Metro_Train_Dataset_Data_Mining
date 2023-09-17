@@ -45,6 +45,11 @@ Dhruvi Gohel - 202101188
 
 Dhruvil Thakor - 202101462
 
+## Contribution:
+
+EDA- Ayush, Dhruvil
+Model Training and Preprocessing- Varun, Dhruvi, Aayush
+
 ## Acknowledgement
 
 Dr. Arpit Rana
